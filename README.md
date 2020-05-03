@@ -1,4 +1,4 @@
-# nocml
+# medicaldeta
 This is a project focused on "Protection of information based on sensitivity and privilege levelsAssignment".
 
 Objectives
