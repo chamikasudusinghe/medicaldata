@@ -1,0 +1,10 @@
+admin,21232f297a57a5a743894a0e4a801fc3,a-000,admin,0
+thilini,1005990aa5d630a0180f01597d7ebcf0,d-001,staff,1
+nimal,e088f2a18812b8b90e235430874a0762,p-001,patient,3
+dinesha,96e6bfef1c1b9ba1d6247de2454db8fb,d-002,staff,1
+kamal,aa63b0d5d950361c05012235ab520512,p-002,patient
+hashara,a9b6d495a57d9f146babcd9b0c29a899,n-001,staff,2
+chamika,67d9b1a7d64d9a9961ca409ea16bffdd,d-003,staff,1
+sumal,7ed4b8a0c4476522cafa85378b06842d,p-003,patient,3
+nuwan,48e912410d266e8acfc5491ffd418567,d-004,staff,1
+p-004,776f422b5bab9a7e15012192b9e63dcf,p-004,patient,3

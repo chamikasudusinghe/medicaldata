@@ -1,0 +1,4 @@
+p-001,Nimal,20,M,0710000001,Fever,d-001,Panadol,W=12
+p-002,Kamal,21,M,0710000002,Fever,d-002,Panadol,W=11
+p-003,Sumal,22,M,0710000003,Fever,d-003,Panadol,W=10
+p-004,Rumal,30,M,0710000004,Fever,d-004,Panadol,W=9
